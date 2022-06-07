@@ -1,0 +1,6 @@
+status,wallc-locktime,hostname,cpu,optimalcpu,CUSTOM_KPI-No._of_Flops,Design,mem,power
+PASS,542.0,svr-inn-clpqor-32.inn.mentorg.com,432.0,432.0,159439.0,/powerpro/tests/main/qa_repository/shasta_qor/testcases/ati/pa_data/ati_tcc0.1_prob0.4.def high SKIP_VIS,,
+FAIL,642.0,svr-inn-clpqor-32.inn.mentorg.com,332.0,332.0,259439.0,/powerpro/tests/main/qa_repository/shasta_qor/testcases/ati/pa_data/ati_cg_pa_rc_integrated.def high SKIP_VIS,,
+PASS,742.0,svr-inn-clpqor-32.inn.mentorg.com,232.0,232.0,359439.0,/powerpro/tests/main/qa_repository/shasta_qor/testcases/Ipars/Ipars.def high SKIP_VIS,200.0,
+PASS,842.0,svr-inn-clpqor-32.inn.mentorg.com,132.0,132.0,459439.0,/powerpro/tests/main/qa_repository/shasta_qor/testcases/Ipars/Ipars.def high SKIP_VIS,,300.0
+FAIL,942.0,svr-inn-clpqor-32.inn.mentorg.com,532.0,532.0,559439.0,/powerpro/tests/main/qa_repository/shasta_qor/testcases/Ipars/Ipars.def high SKIP_VIS,,
