@@ -12,7 +12,7 @@ import csv
 import json
 import pandas as pd
 import qor_functions
-import dashtools
+
 
 percentage = FormatTemplate.percentage(2).sign(Sign.positive)
 version1 = "10.5B"
